@@ -116,3 +116,6 @@ mmseg/.mim
 
 # Pytorch
 *.pth
+
+#pretrained models
+pretrain
